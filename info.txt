@@ -1,0 +1,2 @@
+g:\Erlang-repo\Erlang\
+"c:\Program Files\erl8.3\bin\werl.exe"
